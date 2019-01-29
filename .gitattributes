@@ -1,1 +1,7 @@
 *.h5 filter=lfs diff=lfs merge=lfs -text
+source/demo/models/AM_pics_3 filter=lfs diff=lfs merge=lfs -text
+source/demo/models/AM_pics_4 filter=lfs diff=lfs merge=lfs -text
+source/demo/models/AM filter=lfs diff=lfs merge=lfs -text
+source/demo/models/AM_pics_0 filter=lfs diff=lfs merge=lfs -text
+source/demo/models/AM_pics_1 filter=lfs diff=lfs merge=lfs -text
+source/demo/models/AM_pics_2 filter=lfs diff=lfs merge=lfs -text
